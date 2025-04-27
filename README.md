@@ -17,6 +17,7 @@ chatbot-ui
 ├── requirements.txt          # Lists project dependencies
 └── README.md                 # Project documentation
 ```
+<img width="733" alt="Screenshot 2025-04-27 at 4 02 44 PM" src="https://github.com/user-attachments/assets/4a2d0d03-4d98-41d5-885b-7f34f71d8503" />
 
 ## Setup Instructions
 
